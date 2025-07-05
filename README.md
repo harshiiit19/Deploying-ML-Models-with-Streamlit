@@ -16,12 +16,14 @@ We trained a Random Forest Regressor on a large car dataset to predict the MSRP 
     • ☁️ Ready for deployment on Streamlit Cloud
 
 📁 Project Structure
-  ├── app.py                  # Streamlit app script
-  ├── train_model.py          # Script to train and save the model
-  ├── car_price_model.pkl     # Trained ML model
-  ├── model_columns.pkl       # Feature columns used by the model
-  ├── requirements.txt        # Python dependencies
-  └── README.md               # Project description
+
+
+    ├── app.py                  # Streamlit app script
+    ├── train_model.py          # Script to train and save the model
+    ├── car_price_model.pkl     # Trained ML model
+    ├── model_columns.pkl       # Feature columns used by the model
+    ├── requirements.txt        # Python dependencies
+    └── README.md               # Project description
 
 📦 Requirements
   • Python 3.7+
