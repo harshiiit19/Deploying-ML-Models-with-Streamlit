@@ -26,18 +26,21 @@ We trained a Random Forest Regressor on a large car dataset to predict the MSRP 
     └── README.md               # Project description
 
 📦 Requirements
-  • Python 3.7+
 
-  • streamlit
+    • Python 3.7+
 
-  • pandas
+    • streamlit
 
-  • numpy
+    • pandas
 
-  • scikit-learn
+    • numpy
+
+    • scikit-learn
 
 ▶️ How to Run Locally
-  streamlit run app.py
+
+    streamlit run app.py
 
 🌐 Live Demo
-   https://deploying-ml-models-with-app-6cycfdpc2jfyd5pa6f9yhp.streamlit.app/
+    
+    https://deploying-ml-models-with-app-6cycfdpc2jfyd5pa6f9yhp.streamlit.app/
