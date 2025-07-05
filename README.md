@@ -4,7 +4,8 @@ This project demonstrates how to deploy a machine learning model using Streamlit
 We trained a Random Forest Regressor on a large car dataset to predict the MSRP (Manufacturer's Suggested Retail Price) based on features like engine size, horsepower, mileage, and more. The app allows users to input custom car specs and instantly get a price estimate with an intuitive user interface.
 
 🔍 Key Features
-     • ✅ Interactive UI for entering car specifications
+
+    • ✅ Interactive UI for entering car specifications
 
     • 🧠 Real-time predictions using a trained ML model
 
